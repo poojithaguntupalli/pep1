@@ -5,5 +5,5 @@ public class sampleproject {
 		return a+b;
 	}
 	System.out.println("java");
-	
+	System.out.println("project");	
 }
